@@ -6,11 +6,11 @@ export const ContactForm = styled.form`
   flex-direction: column;
   width: 500px;
   height: 300px;
-  padding: 40px;
+  padding: 30px;
 `
 export const ContactLabel = styled.label`
   font-weight: 700;
-  font-size: 24px;
+  font-size: 20px;
   padding-bottom: 10px;
   padding-top: 10px;
   
@@ -23,7 +23,7 @@ export const ContactInput = styled.input`
     border-radius: 4px;
     padding-left: 22px;
     margin-top: 4px;
-    font-size: 18px;
+    font-size: 16px;
 `
 
 export const ContactButton = styled.button`
@@ -35,7 +35,8 @@ export const ContactButton = styled.button`
     border-radius: 4px;
     background-color: rgb(79, 68, 60);
     color: rgb(244, 234, 225);
-    margin-top: 40px;
+    margin-top: 30px;
     border: none;
     height: 40px;
 `
+

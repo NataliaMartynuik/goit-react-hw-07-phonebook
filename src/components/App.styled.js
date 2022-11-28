@@ -6,18 +6,19 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 50px;
+    padding: 15px;
+    padding-bottom: 40px;
     margin-left: auto;
     margin-right: auto;
     color: rgb(79, 68, 60);
 `
 export const Title = styled.h1`
-    margin-top: 20px;
-    padding: 20px;
-    font-size: 50px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 40px;
     color: rgb(79, 68, 60);
 `
 export const TitleContact = styled.h2`
-    font-size: 40px;
+    font-size: 30px;
 
 `

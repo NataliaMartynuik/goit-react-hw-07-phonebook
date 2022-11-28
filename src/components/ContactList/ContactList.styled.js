@@ -17,27 +17,27 @@ export const ContactItem = styled.li`
     justify-content: space-between;
     height: 40px;
     margin-top: 4px;
-    width: 300px;
+    width: 400px;
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;
-    padding-left: 20px;
+    padding-left: 15px;
 `
 
 export const ContactText = styled.p`
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
 
 `
 
 export const DelButton = styled.button`
     border: none;
-    margin-right: 20px;
+    margin-right: 10px;
     background-color: transparent;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
 `
 
 export const Text = styled.p`
-    font-size: 40px;
+    font-size: 20px;
 
 `
